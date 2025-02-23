@@ -1,0 +1,23 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "polished-surf-cd2e",
+  "upload_source_maps": true,
+  "kv_namespaces": [
+    {
+      "binding": "AUTH_STORAGE",
+      "id": "b279034db46f4ca39938121980a0efd4"
+    }
+  ],
+  "d1_databases": [
+    {
+      "binding": "AUTH_DB",
+      "database_name": "delicate-frost-63a8-d1",
+      "database_id": "e2d69dc6-5dca-4ff1-a64f-3f432b7b5680"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  },
+  "compatibility_flags": ["nodejs_compat"]
+}
